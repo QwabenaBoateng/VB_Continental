@@ -1,0 +1,29 @@
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\bin\Debug\net6.0-windows\Continents puit22110002.exe
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\bin\Debug\net6.0-windows\Continents puit22110002.deps.json
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\bin\Debug\net6.0-windows\Continents puit22110002.runtimeconfig.json
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\bin\Debug\net6.0-windows\Continents puit22110002.dll
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\bin\Debug\net6.0-windows\Continents puit22110002.pdb
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents_puit22110002.Form1.resources
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.vbproj.GenerateResource.cache
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.AssemblyInfoInputs.cache
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.AssemblyInfo.vb
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.vbproj.CoreCompileInputs.cache
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.dll
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\refint\Continents puit22110002.dll
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.pdb
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.genruntimeconfig.cache
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\ref\Continents puit22110002.dll
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents_puit22110002.Resources.resources
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents_puit22110002.frmContinental.resources
+C:\Users\Kwabe\OneDrive\Desktop\Mckenzie VB\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents_puit22110002.frm1.resources
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents_puit22110002.frm1.resources
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents_puit22110002.Resources.resources
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.vbproj.GenerateResource.cache
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.AssemblyInfoInputs.cache
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.AssemblyInfo.vb
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.vbproj.CoreCompileInputs.cache
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.dll
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\refint\Continents puit22110002.dll
+C:\Users\Kwabena Boateng\Desktop\Continents puit22110002\Continents puit22110002\obj\Debug\net6.0-windows\Continents puit22110002.pdb
